@@ -85,6 +85,6 @@ BackDystrykty - test
 QgutsOIt81Ub31nlwCBRRlNsvmDejCTK:test
 
 dfgdfgdf - gdfgdfg
-hDyZwtgT64nOVKoly3ZSVtGe2rk1mVV4:dfgdfg
+hDyZwtgT64nOVKoly3ZSVtGe2rk1mVV4(:dfgdfg
 
 ----------------END OF FILE----------------
