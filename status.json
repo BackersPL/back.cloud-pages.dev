@@ -1,3 +1,35 @@
 {
-  "BackDystrykty": "inactive"
+  "ip": ":25565",
+  "ping": 0,
+  "players_online": 1,
+  "plugins": [
+    "Skript v2.12.1",
+    "SkBee v3.11.2",
+    "IgrzyskaCore v2.0-BETA",
+    "BackWhitelist v1.0.0",
+    "BackPlugman v1.0",
+    "BackOptimalization v1.0.0-BETA-X",
+    "BackJoin v1.0-SNAPSHOT",
+    "BackItemEdit v1.0.0",
+    "BackDystrykty v8.0",
+    "BackCrafting v1.0-SNAPSHOT",
+    "aliveplayersplugin v1.0-SNAPSHOT"
+  ],
+  "cpu_cores": 28,
+  "ram_used": 937,
+  "ram_max": 2048,
+  "system": "Windows 10 amd64 v10.0",
+  "operators": [
+    "Meabx",
+    "Bakusek",
+    "xBackus",
+    "SpireDEV"
+  ],
+  "bans": 0,
+  "whitelist": 2,
+  "tps": [
+    20.088923418623303,
+    20.017721648940363,
+    20.005903728853117
+  ]
 }
