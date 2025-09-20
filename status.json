@@ -16,7 +16,7 @@
     "aliveplayersplugin v1.0-SNAPSHOT"
   ],
   "cpu_cores": 28,
-  "ram_used": 505,
+  "ram_used": 593,
   "ram_max": 2048,
   "system": "Windows 10 amd64 v10.0",
   "operators": [
@@ -28,8 +28,8 @@
   "bans": 0,
   "whitelist": 2,
   "tps": [
-    19.999964233397296,
-    20.017713788365036,
-    20.00590111175352
+    19.999847601161278,
+    20.01777218517403,
+    20.005920554351736
   ]
 }
