@@ -1,7 +1,10 @@
 {
+  "auth": "r3WARJJoTKI7JgRASJlP5VkVqxdsJAFw",
+  "id": "localhost",
   "ip": ":25565",
-  "ping": 0,
-  "players_online": 1,
+  "bukkit_version": "1.21.4-R0.1-SNAPSHOT",
+  "online_players": 1,
+  "max_players": 20,
   "plugins": [
     "Skript v2.12.1",
     "SkBee v3.11.2",
@@ -15,21 +18,30 @@
     "BackCrafting v1.0-SNAPSHOT",
     "aliveplayersplugin v1.0-SNAPSHOT"
   ],
-  "cpu_cores": 28,
-  "ram_used": 851,
-  "ram_max": 2048,
-  "system": "Windows 10 amd64 v10.0",
+  "worlds": [
+    "world",
+    "world_nether",
+    "world_the_end"
+  ],
   "operators": [
     "Meabx",
     "Bakusek",
     "xBackus",
     "SpireDEV"
   ],
+  "whitelist": [
+    "xBackus",
+    "SpireDEV"
+  ],
   "bans": 0,
-  "whitelist": 2,
+  "avg_ping": 0,
   "tps": [
-    20.000216002332824,
-    20.01775706501605,
-    20.005915520262754
-  ]
+    20.000036033398253,
+    19.77916851089282,
+    19.931705605279955
+  ],
+  "cpu_cores": 28,
+  "ram_used": 990,
+  "ram_max": 2048,
+  "system": "Windows 10 amd64 v10.0"
 }
