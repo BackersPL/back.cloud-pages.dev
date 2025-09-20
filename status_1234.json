@@ -1,0 +1,32 @@
+{
+  "auth": "IXwRV0orGwPMa6munJnmjhvKFsSyWF8S",
+  "id": "1234",
+  "ip": ":25565",
+  "bukkit_version": "1.21.4-R0.1-SNAPSHOT",
+  "online_players": 0,
+  "max_players": 20,
+  "plugins": [
+    "BackDystrykty v9.0",
+    "BackCustomItems v1.0-SNAPSHOT"
+  ],
+  "worlds": [
+    "world",
+    "world_nether",
+    "world_the_end"
+  ],
+  "operators": [
+    "xBackus"
+  ],
+  "whitelist": [],
+  "bans": 0,
+  "avg_ping": 0,
+  "tps": [
+    20.020023660631598,
+    20.004001527117477,
+    20.001333664482672
+  ],
+  "cpu_cores": 28,
+  "ram_used": 951,
+  "ram_max": 2048,
+  "system": "Windows 10 amd64 v10.0"
+}
