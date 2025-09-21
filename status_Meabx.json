@@ -18,6 +18,7 @@
     "BackPlugman v1.0",
     "BackJoin v1.0-SNAPSHOT",
     "BackDystrykty v9.0",
+    "BackChests v1.0",
     "BackBattle v1.0.0",
     "aliveplayersplugin v1.0-SNAPSHOT"
   ],
@@ -33,12 +34,12 @@
   "bans": 0,
   "avg_ping": 0,
   "tps": [
-    20.000644420763237,
-    20.000135600919375,
-    20.00003806673912
+    19.999614407434226,
+    18.56188633214665,
+    19.69477840569265
   ],
   "cpu_cores": 6,
-  "ram_used": 7237,
+  "ram_used": 7704,
   "ram_max": 8192,
   "system": "Windows 10 amd64 v10.0"
 }
