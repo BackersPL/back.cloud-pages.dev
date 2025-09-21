@@ -87,4 +87,7 @@ IXwRV0orGwPMa6munJnmjhvKFsSyWF8S:1234
 BackChests - localhost
 4EvGfPQaaLJG2UlInxZ6e014jJnN2pFV:1234
 
+JLGMessages - Meabx
+jtRoiELLw0EMfpcJGQTw8xvBjfOjTUY8:Meabx
+
 ----------------END OF FILE----------------
