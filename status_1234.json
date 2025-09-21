@@ -3,7 +3,7 @@
   "id": "1234",
   "ip": ":25565",
   "bukkit_version": "1.21.4-R0.1-SNAPSHOT",
-  "online_players": 0,
+  "online_players": 1,
   "max_players": 20,
   "plugins": [
     "BackDystrykty v9.0",
@@ -22,12 +22,12 @@
   "bans": 0,
   "avg_ping": 0,
   "tps": [
-    20.02025726374265,
-    20.00404817255257,
-    20.001349208789858
+    20.000331672166897,
+    20.004135208153915,
+    20.00137821274475
   ],
   "cpu_cores": 28,
-  "ram_used": 913,
+  "ram_used": 1243,
   "ram_max": 2048,
   "system": "Windows 10 amd64 v10.0"
 }
