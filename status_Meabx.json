@@ -3,7 +3,7 @@
   "id": "Meabx",
   "ip": "192.168.0.105:25565",
   "bukkit_version": "1.21.4-R0.1-SNAPSHOT",
-  "online_players": 1,
+  "online_players": 0,
   "max_players": 100,
   "plugins": [
     "Skript v2.12.1",
@@ -30,15 +30,15 @@
     "Meabx"
   ],
   "whitelist": [],
-  "bans": 0,
+  "bans": 1,
   "avg_ping": 0,
   "tps": [
-    19.997910218382177,
-    20.00035537298105,
-    19.46786970755583
+    20.006801512242102,
+    18.23716241570493,
+    19.108359670093535
   ],
   "cpu_cores": 6,
-  "ram_used": 7701,
+  "ram_used": 7635,
   "ram_max": 8192,
   "system": "Windows 10 amd64 v10.0"
 }
