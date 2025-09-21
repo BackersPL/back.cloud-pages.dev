@@ -4,7 +4,7 @@ JLGMessages - Bakuś
 SkxHTWVzc2FnZXNMaWNrYTE=:Bakuś
 
 BackDystrykty - Bakuś
-RHlzdHJ5a3R5TGlja2ExQmFjaw==:Bakuś
+RHlzdHJ5a3R5TGlja2ExQmFjaw==(:Bakuś
 
 BackCooldown - Bakuś
 U0RGRzRGRzJTREY1UzRHQUFTRA==:Bakuś
