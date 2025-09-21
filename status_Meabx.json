@@ -26,17 +26,19 @@
     "world_nether",
     "world_the_end"
   ],
-  "operators": [],
+  "operators": [
+    "Meabx"
+  ],
   "whitelist": [],
   "bans": 0,
   "avg_ping": 0,
   "tps": [
-    20.000791631332767,
-    20.00022520253578,
-    19.99998210001602
+    19.993117169483234,
+    19.99947998018805,
+    19.999894293892027
   ],
   "cpu_cores": 6,
-  "ram_used": 7765,
+  "ram_used": 6849,
   "ram_max": 8192,
   "system": "Windows 10 amd64 v10.0"
 }
