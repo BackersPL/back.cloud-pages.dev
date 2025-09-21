@@ -1,0 +1,44 @@
+{
+  "auth": "yE57cAQv3FgZoE2PkDoulsUb9EjC9c18",
+  "id": "Meabx",
+  "ip": "192.168.0.105:25565",
+  "bukkit_version": "1.21.4-R0.1-SNAPSHOT",
+  "online_players": 1,
+  "max_players": 100,
+  "plugins": [
+    "Skript v2.12.1",
+    "PlasmoVoice v2.1.5",
+    "SkBee v3.11.1",
+    "pv-addon-spectator v1.0.0",
+    "MeabxWeaponary v6.9",
+    "JLGMessages v1.0",
+    "IgrzyskaCore v2.0-BETA",
+    "BackWhitelist v1.0.0",
+    "BackSpawnProtection v1.0",
+    "BackPlugman v1.0",
+    "BackJoin v1.0-SNAPSHOT",
+    "BackDystrykty v9.0",
+    "BackBattle v1.0.0",
+    "aliveplayersplugin v1.0-SNAPSHOT"
+  ],
+  "worlds": [
+    "world",
+    "world_nether",
+    "world_the_end"
+  ],
+  "operators": [
+    "Meabx"
+  ],
+  "whitelist": [],
+  "bans": 0,
+  "avg_ping": 0,
+  "tps": [
+    20.00055121519149,
+    18.838315317341877,
+    19.477174585648537
+  ],
+  "cpu_cores": 6,
+  "ram_used": 6935,
+  "ram_max": 8192,
+  "system": "Windows 10 amd64 v10.0"
+}
