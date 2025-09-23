@@ -7,7 +7,7 @@
   "max_players": 20,
   "plugins": [
     "BackDystrykty v9.0",
-    "BackCustomItems v1.0-SNAPSHOT"
+    "BackCustomItemsExtended v1.0-SNAPSHOT"
   ],
   "worlds": [
     "world",
@@ -21,12 +21,12 @@
   "bans": 0,
   "avg_ping": 0,
   "tps": [
-    20.00030390461783,
-    20.00002738670417,
-    19.999994726668056
+    20.022251996719916,
+    20.004446441655777,
+    20.00148192757511
   ],
   "cpu_cores": 28,
-  "ram_used": 953,
+  "ram_used": 370,
   "ram_max": 2048,
   "system": "Windows 10 amd64 v10.0"
 }
