@@ -3,11 +3,12 @@
   "id": "1234",
   "ip": ":25565",
   "bukkit_version": "1.21.4-R0.1-SNAPSHOT",
-  "online_players": 1,
+  "online_players": 0,
   "max_players": 20,
   "plugins": [
     "BackDystrykty v9.0",
-    "BackCustomItemsExtended v1.0-SNAPSHOT"
+    "BackCustomItemsExtended v1.0-SNAPSHOT",
+    "BackBlacklist v1.0.0"
   ],
   "worlds": [
     "world",
@@ -21,12 +22,12 @@
   "bans": 0,
   "avg_ping": 0,
   "tps": [
-    20.00018386835703,
-    20.000040593415726,
-    19.99998674667545
+    20.020740152081547,
+    20.00414459203754,
+    20.001381339842844
   ],
   "cpu_cores": 28,
-  "ram_used": 1508,
+  "ram_used": 387,
   "ram_max": 2048,
   "system": "Windows 10 amd64 v10.0"
 }
