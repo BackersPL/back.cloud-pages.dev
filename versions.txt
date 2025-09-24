@@ -1,0 +1,15 @@
+BackPlugman:1.0
+JLGMessages:1.0
+BackSpawnProtection:1.0
+BackDrop:1.0
+BackDystrykty:9.0
+BackSpawn:1.0
+BackCore:1.0-BETA
+IgrzyskaCore:2.0-BETA
+BackOptimalization:1.0.0-BETA-X
+BackBattle:1.0.0
+BackWhitelist:1.0.0
+Aliveplayersplugin:1.0-SNAPSHOT
+BackCustomItems:1.0-SNAPSHOT
+BackJoin:1.0-SNAPSHOT
+BackChests:1.0
