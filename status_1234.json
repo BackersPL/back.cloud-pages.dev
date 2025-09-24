@@ -6,6 +6,7 @@
   "online_players": 0,
   "max_players": 20,
   "plugins": [
+    "JLGMessages v2.0",
     "BackDystrykty v9.0",
     "BackCustomItemsExtended v1.0-SNAPSHOT",
     "BackBlacklist v1.0.0"
@@ -22,12 +23,12 @@
   "bans": 0,
   "avg_ping": 0,
   "tps": [
-    19.99981930163261,
-    20.00000145333344,
-    19.999997777778024
+    20.02197348186719,
+    20.004390837094267,
+    20.00146339817999
   ],
   "cpu_cores": 28,
-  "ram_used": 556,
+  "ram_used": 806,
   "ram_max": 2048,
   "system": "Windows 10 amd64 v10.0"
 }
