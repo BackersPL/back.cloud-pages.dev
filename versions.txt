@@ -1,5 +1,5 @@
 BackPlugman:1.0
-JLGMessages:1.0
+JLGMessages:2.0
 BackSpawnProtection:1.0
 BackDrop:1.0
 BackDystrykty:9.0
