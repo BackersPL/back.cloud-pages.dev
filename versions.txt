@@ -13,3 +13,4 @@ Aliveplayersplugin:1.0-SNAPSHOT
 BackCustomItems:1.0-SNAPSHOT
 BackJoin:1.0-SNAPSHOT
 BackChests:1.0
+BackAuth: 1.0.0
