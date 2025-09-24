@@ -9,7 +9,8 @@
     "JLGMessages v2.0",
     "BackDystrykty v9.0",
     "BackCustomItemsExtended v1.0-SNAPSHOT",
-    "BackBlacklist v1.0.0"
+    "BackBlacklist v1.0.0",
+    "BackAuth v1.0.0"
   ],
   "worlds": [
     "world",
@@ -23,12 +24,12 @@
   "bans": 0,
   "avg_ping": 0,
   "tps": [
-    19.999841967915383,
-    20.000002293333598,
-    20.000006657757773
+    18.619093979557235,
+    19.707635700328467,
+    19.901588134869606
   ],
   "cpu_cores": 28,
-  "ram_used": 1384,
+  "ram_used": 1338,
   "ram_max": 2048,
   "system": "Windows 10 amd64 v10.0"
 }
