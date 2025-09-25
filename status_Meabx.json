@@ -12,7 +12,7 @@
     "pv-addon-spectator v1.0.0",
     "PlugManX v2.4.1",
     "MeabxWeaponary v6.9",
-    "JLGMessages v1.0",
+    "JLGMessages v2.0",
     "IgrzyskaCore v2.0-BETA",
     "CommandWhitelist v2.11.0",
     "BackWhitelist v1.0.0",
@@ -35,12 +35,12 @@
   "bans": 0,
   "avg_ping": 0,
   "tps": [
-    20.000512413128025,
-    20.729718498611028,
-    20.141804602069474
+    19.99946081453644,
+    17.241304622796786,
+    19.513019364580575
   ],
   "cpu_cores": 6,
-  "ram_used": 6648,
+  "ram_used": 6890,
   "ram_max": 8192,
   "system": "Windows 10 amd64 v10.0"
 }
