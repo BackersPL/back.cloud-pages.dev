@@ -3,14 +3,14 @@
   "id": "Meabx",
   "ip": "192.168.0.105:25565",
   "bukkit_version": "1.21.4-R0.1-SNAPSHOT",
-  "online_players": 0,
+  "online_players": 1,
   "max_players": 100,
   "plugins": [
+    "PlugManX v2.4.1",
     "Skript v2.12.1",
     "PlasmoVoice v2.1.5",
     "SkBee v3.11.1",
     "pv-addon-spectator v1.0.0",
-    "PlugManX v2.4.1",
     "MeabxWeaponary v6.9",
     "JLGMessages v2.0",
     "IgrzyskaCore v2.0-BETA",
@@ -33,14 +33,14 @@
   ],
   "whitelist": [],
   "bans": 0,
-  "avg_ping": 0,
+  "avg_ping": 470,
   "tps": [
-    20.002883215586696,
-    19.999856967689585,
-    19.08170041841017
+    19.998873263480334,
+    13.969917823902549,
+    17.520783051381013
   ],
   "cpu_cores": 6,
-  "ram_used": 7267,
+  "ram_used": 7398,
   "ram_max": 8192,
   "system": "Windows 10 amd64 v10.0"
 }
