@@ -21,8 +21,8 @@
     "BackDystrykty v9.0",
     "BackChests v1.0",
     "BackBattle v1.0.0",
-    "BackAuth v1.0.0",
-    "aliveplayersplugin v1.0-SNAPSHOT"
+    "aliveplayersplugin v1.0-SNAPSHOT",
+    "BackAuth v1.0.0"
   ],
   "worlds": [
     "world",
@@ -36,12 +36,12 @@
   "bans": 0,
   "avg_ping": 0,
   "tps": [
-    19.997476718387674,
-    20.00033100547814,
-    20.000043206760008
+    19.997921819964052,
+    18.648284911621214,
+    19.71422940431541
   ],
   "cpu_cores": 6,
-  "ram_used": 7649,
+  "ram_used": 7641,
   "ram_max": 8192,
   "system": "Windows 10 amd64 v10.0"
 }
