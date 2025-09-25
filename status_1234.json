@@ -20,16 +20,19 @@
   "operators": [
     "xBackus"
   ],
-  "whitelist": [],
+  "whitelist": [
+    "xBackus",
+    "lgdfg"
+  ],
   "bans": 0,
   "avg_ping": 0,
   "tps": [
-    20.000053800144723,
-    19.48999394618865,
-    19.828412313632462
+    19.154002597477486,
+    19.652872698267988,
+    19.770716355347787
   ],
   "cpu_cores": 28,
-  "ram_used": 836,
+  "ram_used": 1177,
   "ram_max": 2048,
   "system": "Windows 10 amd64 v10.0"
 }
