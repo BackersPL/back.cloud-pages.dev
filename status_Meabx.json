@@ -6,11 +6,11 @@
   "online_players": 1,
   "max_players": 100,
   "plugins": [
-    "PlugManX v2.4.1",
     "Skript v2.12.1",
     "PlasmoVoice v2.1.5",
     "SkBee v3.11.1",
     "pv-addon-spectator v1.0.0",
+    "PlugManX v2.4.1",
     "MeabxWeaponary v6.9",
     "JLGMessages v2.0",
     "IgrzyskaCore v2.0-BETA",
@@ -21,6 +21,7 @@
     "BackDystrykty v9.0",
     "BackChests v1.0",
     "BackBattle v1.0.0",
+    "BackAuth v1.0.0",
     "aliveplayersplugin v1.0-SNAPSHOT"
   ],
   "worlds": [
@@ -33,14 +34,14 @@
   ],
   "whitelist": [],
   "bans": 0,
-  "avg_ping": 470,
+  "avg_ping": 148,
   "tps": [
-    19.998873263480334,
-    13.969917823902549,
-    17.520783051381013
+    20.006468891651426,
+    15.424130801482656,
+    16.65515013000627
   ],
   "cpu_cores": 6,
-  "ram_used": 7398,
+  "ram_used": 7066,
   "ram_max": 8192,
   "system": "Windows 10 amd64 v10.0"
 }
