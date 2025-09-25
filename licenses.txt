@@ -105,4 +105,7 @@ Xd8yvoB4zcpY7jXqKhx5epL2tr3cUfi1:Bakuś
 BackAuth - localhost
 5T0BVd4RjaEbtPBixU9evnKaqVqViSdV:1234
 
+BackAuth - Meabx
+i8kg2HO9OVu6Yd4mNToF6MyrEONcs7Of:Meabx
+
 ----------------END OF FILE----------------
