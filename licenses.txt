@@ -112,6 +112,6 @@ BackAuth - Bakuś
 wRhFU0vPY5QFF3FBsRbulQ9taeGIBxIZ:Bakuś
 
 test - 1234
-gGiPBAxc5I4TYEXrRxdm5fKpyYTSNidJ:0000
+gGiPBAxc5I4TYEXrRxdm5fKpyYTSNidJ(:0000
 
 ----------------END OF FILE----------------
