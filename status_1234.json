@@ -3,7 +3,7 @@
   "id": "1234",
   "ip": ":25565",
   "bukkit_version": "1.21.4-R0.1-SNAPSHOT",
-  "online_players": 0,
+  "online_players": 1,
   "max_players": 20,
   "plugins": [
     "JLGMessages v2.0",
@@ -24,15 +24,15 @@
     "xBackus",
     "lgdfg"
   ],
-  "bans": 1,
+  "bans": 0,
   "avg_ping": 0,
   "tps": [
-    19.9999298335795,
-    19.999987046675056,
-    20.00127781052366
+    19.99994240016589,
+    20.000024873364268,
+    20.001290994439064
   ],
   "cpu_cores": 28,
-  "ram_used": 293,
+  "ram_used": 637,
   "ram_max": 2048,
   "system": "Windows 10 amd64 v10.0"
 }
