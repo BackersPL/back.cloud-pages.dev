@@ -3,7 +3,7 @@
   "id": "Meabx",
   "ip": "192.168.0.105:25565",
   "bukkit_version": "1.21.4-R0.1-SNAPSHOT",
-  "online_players": 0,
+  "online_players": 1,
   "max_players": 100,
   "plugins": [
     "LuckPerms v5.5.11",
@@ -30,7 +30,9 @@
     "world_nether",
     "world_the_end"
   ],
-  "operators": [],
+  "operators": [
+    "Meabx"
+  ],
   "whitelist": [
     "OChlopczyku_",
     "Meabx",
@@ -39,12 +41,12 @@
   "bans": 0,
   "avg_ping": 0,
   "tps": [
-    19.997472319498815,
-    19.99958244205125,
-    19.99990479378655
+    19.994659026680793,
+    19.99943601590435,
+    19.999908507085216
   ],
   "cpu_cores": 6,
-  "ram_used": 7283,
+  "ram_used": 7197,
   "ram_max": 8192,
   "system": "Windows 10 amd64 v10.0"
 }
