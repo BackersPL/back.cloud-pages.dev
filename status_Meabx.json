@@ -6,16 +6,17 @@
   "online_players": 0,
   "max_players": 100,
   "plugins": [
+    "LuckPerms v5.5.11",
     "Skript v2.12.1",
     "PlasmoVoice v2.1.5",
     "SkBee v3.11.1",
-    "pv-addon-spectator v1.0.0",
+    "pv-addon-spectator v1.1.0",
+    "pv-addon-sculk v1.1.0",
     "PlugManX v2.4.1",
     "MeabxWeaponary v6.9",
     "JLGMessages v2.0",
     "IgrzyskaCore v2.0-BETA",
     "CommandWhitelist v2.11.0",
-    "BackWhitelist v1.0.0",
     "BackSpawnProtection v1.0",
     "BackJoin v1.0-SNAPSHOT",
     "BackDystrykty v9.0",
@@ -39,12 +40,12 @@
   "bans": 0,
   "avg_ping": 0,
   "tps": [
-    19.99874207912322,
-    19.999961866739373,
-    20.000072966932873
+    19.995550590082694,
+    20.503873849000303,
+    20.098783787118688
   ],
   "cpu_cores": 6,
-  "ram_used": 7422,
+  "ram_used": 6836,
   "ram_max": 8192,
   "system": "Windows 10 amd64 v10.0"
 }
