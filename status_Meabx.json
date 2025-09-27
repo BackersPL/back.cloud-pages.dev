@@ -11,7 +11,6 @@
     "PlasmoVoice v2.1.5",
     "SkBee v3.11.1",
     "pv-addon-spectator v1.1.0",
-    "pv-addon-sculk v1.1.0",
     "PlugManX v2.4.1",
     "MeabxWeaponary v6.9",
     "JLGMessages v2.0",
@@ -23,7 +22,8 @@
     "BackChests v1.0",
     "BackBattle v1.0.0",
     "BackAuth v1.0.0",
-    "aliveplayersplugin v1.0-SNAPSHOT"
+    "aliveplayersplugin v1.0-SNAPSHOT",
+    "pv-addon-sculk v1.1.0"
   ],
   "worlds": [
     "world",
@@ -41,12 +41,12 @@
   "bans": 0,
   "avg_ping": 0,
   "tps": [
-    20.001822966145134,
-    20.00012146740438,
-    20.00003366672334
+    20.000926042875786,
+    19.9997252037757,
+    20.00007677362804
   ],
   "cpu_cores": 6,
-  "ram_used": 7218,
+  "ram_used": 6849,
   "ram_max": 8192,
   "system": "Windows 10 amd64 v10.0"
 }
