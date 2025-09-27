@@ -35,17 +35,18 @@
   ],
   "whitelist": [
     "OChlopczyku_",
-    "Meabx"
+    "Meabx",
+    "xBackus"
   ],
   "bans": 0,
   "avg_ping": 0,
   "tps": [
-    20.002931629659642,
-    20.000397341227178,
-    20.098849080911506
+    19.999936800199713,
+    20.000003466667266,
+    20.098850265871864
   ],
   "cpu_cores": 6,
-  "ram_used": 6754,
+  "ram_used": 7076,
   "ram_max": 8192,
   "system": "Windows 10 amd64 v10.0"
 }
