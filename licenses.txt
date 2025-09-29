@@ -112,6 +112,6 @@ BackAuth - Bakuś
 wRhFU0vPY5QFF3FBsRbulQ9taeGIBxIZ:Bakuś
 
 gfdfg - dfg
-(hDNL93hAL0ZrXNT81X3Hc4OE2FuXQlZr):dfgdfg
+hDNL93hAL0ZrXNT81X3Hc4OE2FuXQlZr:dfgdfg
 
 ----------------END OF FILE----------------
