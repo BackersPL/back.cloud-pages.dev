@@ -109,6 +109,6 @@ BackAuth - Meabx
 i8kg2HO9OVu6Yd4mNToF6MyrEONcs7Of:Meabx
 
 BackAuth - Bakuś
-wRhFU0vPY5QFF3FBsRbulQ9taeGIBxIZ:Bakuś
+wRhFU0vPY5QFF3FBsRbulQ9taeGIBxIZ(:Bakuś
 
 ----------------END OF FILE----------------
