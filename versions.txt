@@ -2,7 +2,7 @@ BackPlugman:1.0
 JLGMessages:2.0
 BackSpawnProtection:1.0
 BackDrop:1.0
-BackDystrykty:1.1.0
+BackDystrykty:1.0.0
 BackSpawn:1.0
 BackCore:1.0-BETA
 IgrzyskaCore:2.0-BETA
