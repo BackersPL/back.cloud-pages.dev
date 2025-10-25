@@ -111,4 +111,7 @@ i8kg2HO9OVu6Yd4mNToF6MyrEONcs7Of:Meabx
 BackAuth - Bakuś
 wRhFU0vPY5QFF3FBsRbulQ9taeGIBxIZ:Bakuś
 
+BackDystrykty - localhost
+s9vqG7Hhvaqnxj2Py8ZW6MZIozilsTzS:test
+
 ----------------END OF FILE----------------
