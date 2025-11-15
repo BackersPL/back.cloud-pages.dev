@@ -19,6 +19,7 @@
     "manhunt6_the_end"
   ],
   "operators": [
+    "Bakusek",
     "xBackus",
     "VEDerips"
   ],
@@ -29,12 +30,12 @@
   "bans": 0,
   "avg_ping": 0,
   "tps": [
-    20.020901220246902,
-    20.004176752080774,
-    20.001392056884374
+    20.02069542622992,
+    20.00413566167474,
+    20.001378363876693
   ],
   "cpu_cores": 28,
-  "ram_used": 1061,
+  "ram_used": 1244,
   "ram_max": 2048,
   "system": "Windows 10 amd64 v10.0"
 }
