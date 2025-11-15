@@ -3,19 +3,20 @@
   "id": "1234",
   "ip": ":25565",
   "bukkit_version": "1.21.4-R0.1-SNAPSHOT",
-  "online_players": 0,
+  "online_players": 1,
   "max_players": 20,
   "plugins": [
+    "ManhuntCommands v1.0-SNAPSHOT",
     "JLGMessages v2.0",
+    "CompassSpying v1.0.2",
+    "BackLobby v1.0.0",
     "BackDystrykty v9.0",
-    "BackCustomItemsExtended v1.0-SNAPSHOT",
-    "BackBlacklist v1.0.0",
-    "BackAuth v1.0.0"
+    "BackCustomItemsExtended v1.0-SNAPSHOT"
   ],
   "worlds": [
-    "world",
-    "world_nether",
-    "world_the_end"
+    "manhunt6",
+    "manhunt6_nether",
+    "manhunt6_the_end"
   ],
   "operators": [
     "xBackus",
@@ -28,12 +29,12 @@
   "bans": 0,
   "avg_ping": 0,
   "tps": [
-    20.000379640539542,
-    20.000027206703678,
-    20.001311332640693
+    20.020901220246902,
+    20.004176752080774,
+    20.001392056884374
   ],
   "cpu_cores": 28,
-  "ram_used": 302,
+  "ram_used": 1061,
   "ram_max": 2048,
   "system": "Windows 10 amd64 v10.0"
 }
