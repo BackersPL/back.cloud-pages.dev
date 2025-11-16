@@ -30,7 +30,8 @@
     "world_the_end"
   ],
   "operators": [
-    "Meabx"
+    "Meabx",
+    "Invistal"
   ],
   "whitelist": [
     "OChlopczyku_",
@@ -40,12 +41,12 @@
   "bans": 0,
   "avg_ping": 0,
   "tps": [
-    19.99577369327219,
-    20.221135336572345,
-    20.04383929066264
+    20.006087852533526,
+    20.000008500003613,
+    20.043867078789464
   ],
   "cpu_cores": 6,
-  "ram_used": 6765,
+  "ram_used": 7009,
   "ram_max": 8192,
   "system": "Windows 11 amd64 v10.0"
 }
