@@ -3,7 +3,7 @@
   "id": "1234",
   "ip": ":25565",
   "bukkit_version": "1.21.4-R0.1-SNAPSHOT",
-  "online_players": 0,
+  "online_players": 1,
   "max_players": 20,
   "plugins": [
     "ManhuntCommands v1.0-SNAPSHOT",
@@ -29,12 +29,12 @@
   "bans": 0,
   "avg_ping": 0,
   "tps": [
-    20.020743392124864,
-    20.004145238972274,
-    20.00138155542818
+    20.020811166054852,
+    20.004158771255803,
+    20.001386064941034
   ],
   "cpu_cores": 28,
-  "ram_used": 453,
+  "ram_used": 541,
   "ram_max": 2048,
   "system": "Windows 10 amd64 v10.0"
 }
