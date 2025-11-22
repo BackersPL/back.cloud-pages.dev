@@ -3,12 +3,11 @@
   "id": "1234",
   "ip": ":25565",
   "bukkit_version": "1.21.4-R0.1-SNAPSHOT",
-  "online_players": 2,
+  "online_players": 1,
   "max_players": 20,
   "plugins": [
     "ManhuntCommands v1.0-SNAPSHOT",
-    "JLGMessages v2.0",
-    "CompassSpying v1.0.2",
+    "BackPurge v1.0.0",
     "BackDystrykty v9.0"
   ],
   "worlds": [
@@ -27,14 +26,14 @@
     "lgdfg"
   ],
   "bans": 0,
-  "avg_ping": 20,
+  "avg_ping": 0,
   "tps": [
-    20.00028423737282,
-    20.003841957890273,
-    20.001280488643978
+    20.02014029450317,
+    20.00402481646108,
+    20.001341425520643
   ],
   "cpu_cores": 28,
-  "ram_used": 1872,
+  "ram_used": 1310,
   "ram_max": 2048,
   "system": "Windows 10 amd64 v10.0"
 }
