@@ -8,6 +8,7 @@
   "plugins": [
     "ManhuntCommands v1.0-SNAPSHOT",
     "BackPurge v1.0.0",
+    "BackLifesteal v1.0.0",
     "BackDystrykty v9.0"
   ],
   "worlds": [
@@ -26,14 +27,14 @@
     "lgdfg"
   ],
   "bans": 0,
-  "avg_ping": 0,
+  "avg_ping": 1,
   "tps": [
-    19.9999899000051,
-    20.00001230667424,
-    19.999995153334506
+    19.99987933406135,
+    20.000013360008925,
+    20.000000553333347
   ],
   "cpu_cores": 28,
-  "ram_used": 1350,
+  "ram_used": 1223,
   "ram_max": 2048,
   "system": "Windows 10 amd64 v10.0"
 }
