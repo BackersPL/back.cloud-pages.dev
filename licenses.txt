@@ -57,9 +57,6 @@ CpXLeideU3TaLk0Av9ljFsfBQJ6td1Qy:Bakuś
 BackPlugman - Meabx
 eegSnkS98RkXfABWgtctDhoQIXtLVvqb:Meabx
 
-BackCustomItems - test
-cp9e35bTObuVkrFhc0KFOCbDnKhc768N:localhost
-
 BackCustomItemsExtended - test
 kXsiIEODp9JG22uJRgLVYV63Na6hMP14:localhost
 
