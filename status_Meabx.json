@@ -9,6 +9,7 @@
     "LuckPerms v5.5.11",
     "Skript v2.12.1",
     "PlasmoVoice v2.1.5",
+    "SkinsRestorer v15.9.0",
     "SkBee v3.11.1",
     "pv-addon-spectator v1.1.0",
     "pv-addon-sculk v1.1.0",
@@ -40,14 +41,14 @@
     "xBackus"
   ],
   "bans": 0,
-  "avg_ping": 38,
+  "avg_ping": 33,
   "tps": [
-    20.0012776816183,
-    19.999936966865327,
-    20.078864062253228
+    19.998605297266568,
+    16.304240630135315,
+    19.204791371135133
   ],
   "cpu_cores": 6,
-  "ram_used": 1514,
+  "ram_used": 1660,
   "ram_max": 2048,
   "system": "Windows 11 amd64 v10.0"
 }
