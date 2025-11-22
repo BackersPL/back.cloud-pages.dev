@@ -9,7 +9,6 @@
     "ManhuntCommands v1.0-SNAPSHOT",
     "JLGMessages v2.0",
     "CompassSpying v1.0.2",
-    "BackReports v1.0.0",
     "BackDystrykty v9.0",
     "BackCustomItemsExtended v1.0-SNAPSHOT"
   ],
@@ -30,12 +29,12 @@
   "bans": 0,
   "avg_ping": 0,
   "tps": [
-    20.00015220115825,
-    20.004185208948797,
-    20.001394875054814
+    20.019449963343387,
+    20.003886968612797,
+    20.001295488353513
   ],
   "cpu_cores": 28,
-  "ram_used": 1723,
+  "ram_used": 1198,
   "ram_max": 2048,
   "system": "Windows 10 amd64 v10.0"
 }
