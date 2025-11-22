@@ -4,7 +4,7 @@
   "ip": "192.168.0.105:25565",
   "bukkit_version": "1.21.4-R0.1-SNAPSHOT",
   "online_players": 0,
-  "max_players": 100,
+  "max_players": 20,
   "plugins": [
     "LuckPerms v5.5.11",
     "Skript v2.12.1",
@@ -41,12 +41,12 @@
   "bans": 0,
   "avg_ping": 0,
   "tps": [
-    19.995644148878608,
-    20.00035200619531,
-    20.000009873338207
+    19.995866054651863,
+    20.493650261919182,
+    20.096818277658844
   ],
   "cpu_cores": 6,
-  "ram_used": 6951,
-  "ram_max": 8192,
+  "ram_used": 808,
+  "ram_max": 2048,
   "system": "Windows 11 amd64 v10.0"
 }
