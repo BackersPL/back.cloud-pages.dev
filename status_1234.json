@@ -6,6 +6,7 @@
   "online_players": 1,
   "max_players": 20,
   "plugins": [
+    "WorldEdit v7.3.17+7262-c7fbe08",
     "ManhuntCommands v1.0-SNAPSHOT",
     "BackPurge v1.0.0",
     "BackLifesteal v1.0.0",
@@ -29,12 +30,12 @@
   "bans": 0,
   "avg_ping": 0,
   "tps": [
-    20.00020473542914,
-    19.999969073381155,
-    19.999991702225664
+    20.021736331091365,
+    20.004343489757016,
+    20.001447620328204
   ],
   "cpu_cores": 28,
-  "ram_used": 1879,
+  "ram_used": 1730,
   "ram_max": 2048,
   "system": "Windows 10 amd64 v10.0"
 }
