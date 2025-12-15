@@ -1,10 +1,10 @@
 {
   "auth": "yE57cAQv3FgZoE2PkDoulsUb9EjC9c18",
   "id": "Meabx",
-  "ip": ":25565",
+  "ip": "192.168.0.105:25565",
   "bukkit_version": "1.21.4-R0.1-SNAPSHOT",
-  "online_players": 1,
-  "max_players": 20,
+  "online_players": 0,
+  "max_players": 100,
   "plugins": [
     "LuckPerms v5.5.11",
     "Skript v2.12.1",
@@ -32,23 +32,22 @@
   ],
   "operators": [
     "Meabx",
-    "Invistal",
-    "VEDerips"
+    "Invistal"
   ],
   "whitelist": [
     "OChlopczyku_",
     "Meabx",
     "xBackus"
   ],
-  "bans": 1,
-  "avg_ping": 1,
+  "bans": 0,
+  "avg_ping": 0,
   "tps": [
-    20.002973241942684,
-    19.9997597362197,
-    19.999962466737102
+    20.002720369970316,
+    20.32639808205528,
+    20.064438314717666
   ],
   "cpu_cores": 6,
-  "ram_used": 639,
-  "ram_max": 2048,
+  "ram_used": 7158,
+  "ram_max": 8192,
   "system": "Windows 11 amd64 v10.0"
 }
