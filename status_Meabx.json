@@ -21,8 +21,8 @@
     "aliveplayersplugin v1.0-SNAPSHOT",
     "pv-addon-sculk v1.1.0",
     "BackJoin v1.0-SNAPSHOT",
-    "MeabxWeaponary v6.9",
     "BackAuth v1.0.0",
+    "MeabxWeaponary v6.9",
     "PlugManX v2.4.1"
   ],
   "worlds": [
@@ -40,12 +40,12 @@
   "bans": 0,
   "avg_ping": 0,
   "tps": [
-    19.9999857160102,
-    20.000000227333334,
-    19.999999136333372
+    19.999857141020442,
+    19.002376229427774,
+    19.792182305159184
   ],
   "cpu_cores": 3,
-  "ram_used": 4660,
+  "ram_used": 4365,
   "ram_max": 4872,
   "system": "Linux amd64 v6.1.0-30-amd64"
 }
