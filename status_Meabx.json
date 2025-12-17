@@ -35,19 +35,18 @@
     "Invistal"
   ],
   "whitelist": [
-    "OChlopczyku_",
     "Meabx",
-    "xBackus"
+    "Invistal"
   ],
   "bans": 0,
-  "avg_ping": 34,
+  "avg_ping": 30,
   "tps": [
-    20.00013971297598,
-    20.000005084334624,
-    20.00000394980078
+    20.0000433360939,
+    20.000004496667678,
+    20.000001133866732
   ],
   "cpu_cores": 3,
-  "ram_used": 4801,
+  "ram_used": 4478,
   "ram_max": 4872,
   "system": "Linux amd64 v6.1.0-30-amd64"
 }
