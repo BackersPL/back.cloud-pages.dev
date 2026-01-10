@@ -1,7 +1,7 @@
 {
   "auth": "yE57cAQv3FgZoE2PkDoulsUb9EjC9c18",
   "id": "Meabx",
-  "ip": "0.0.0.0:50094",
+  "ip": "192.168.0.105:25565",
   "bukkit_version": "1.21.4-R0.1-SNAPSHOT",
   "online_players": 0,
   "max_players": 100,
@@ -9,21 +9,21 @@
     "LuckPerms v5.5.11",
     "Skript v2.12.1",
     "PlasmoVoice v2.1.5",
-    "BackBattle v1.0.0",
-    "IgrzyskaCore v2.0-BETA",
     "SkinsRestorer v15.9.1",
-    "BackChests v1.0",
     "SkBee v3.11.1",
-    "BackSpawnProtection v1.0",
-    "BackDystrykty v9.0",
     "pv-addon-spectator v1.1.0",
-    "CommandWhitelist v2.11.0",
-    "aliveplayersplugin v1.0-SNAPSHOT",
     "pv-addon-sculk v1.1.0",
-    "BackJoin v1.0-SNAPSHOT",
-    "BackAuth v1.0.0",
+    "PlugManX v2.4.1",
     "MeabxWeaponary v6.9",
-    "PlugManX v2.4.1"
+    "IgrzyskaCore v2.0-BETA",
+    "CommandWhitelist v2.11.0",
+    "BackSpawnProtection v1.0",
+    "BackJoin v1.0-SNAPSHOT",
+    "BackDystrykty v9.0",
+    "BackChests v1.0",
+    "BackBattle v1.0.0",
+    "BackAuth v1.0.0",
+    "aliveplayersplugin v1.0-SNAPSHOT"
   ],
   "worlds": [
     "world",
@@ -31,21 +31,23 @@
     "world_the_end"
   ],
   "operators": [
-    "Meabx"
-  ],
-  "whitelist": [
     "Meabx",
     "Invistal"
+  ],
+  "whitelist": [
+    "OChlopczyku_",
+    "Meabx",
+    "xBackus"
   ],
   "bans": 0,
   "avg_ping": 0,
   "tps": [
-    19.99996525206037,
-    19.99999662500057,
-    19.999999462866683
+    20.002309066558645,
+    20.474711928993045,
+    20.093173169203293
   ],
-  "cpu_cores": 3,
-  "ram_used": 4150,
-  "ram_max": 4872,
-  "system": "Linux amd64 v6.1.0-30-amd64"
+  "cpu_cores": 6,
+  "ram_used": 6842,
+  "ram_max": 8192,
+  "system": "Windows 11 amd64 v10.0"
 }
