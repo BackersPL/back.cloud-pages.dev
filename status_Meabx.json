@@ -3,7 +3,7 @@
   "id": "Meabx",
   "ip": "0.0.0.0:50094",
   "bukkit_version": "1.21.4-R0.1-SNAPSHOT",
-  "online_players": 0,
+  "online_players": 1,
   "max_players": 20,
   "plugins": [
     "LuckPerms v5.5.11",
@@ -22,8 +22,8 @@
     "pv-addon-sculk v1.1.0",
     "BackJoin v1.0-SNAPSHOT",
     "MeabxWeaponary v6.9",
-    "BackAuth v1.0.0",
-    "PlugManX v2.4.1"
+    "PlugManX v2.4.1",
+    "BackAuth v1.0.0"
   ],
   "worlds": [
     "world",
@@ -35,14 +35,14 @@
   ],
   "whitelist": [],
   "bans": 0,
-  "avg_ping": 0,
+  "avg_ping": 5,
   "tps": [
-    20.000039536078155,
-    20.184836053548924,
-    20.03669590168384
+    19.999907564427218,
+    20.184845417258234,
+    20.036697747037106
   ],
   "cpu_cores": 3,
-  "ram_used": 4196,
+  "ram_used": 4489,
   "ram_max": 4872,
   "system": "Linux amd64 v6.1.0-30-amd64"
 }
