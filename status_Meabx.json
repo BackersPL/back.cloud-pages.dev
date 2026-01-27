@@ -6,13 +6,13 @@
   "online_players": 1,
   "max_players": 20,
   "plugins": [
+    "PlugManX v2.4.1",
     "LuckPerms v5.5.11",
     "Skript v2.12.1",
-    "PlasmoVoice v2.1.5",
-    "PlugManX v2.4.1",
+    "PlasmoVoice v2.1.8",
     "BackBattle v1.0.0",
     "IgrzyskaCore v2.0-BETA",
-    "SkinsRestorer v15.9.1",
+    "SkinsRestorer v15.9.3",
     "BackChests v1.0",
     "SkBee v3.11.1",
     "BackSpawnProtection v1.0",
@@ -35,14 +35,14 @@
   ],
   "whitelist": [],
   "bans": 0,
-  "avg_ping": 27,
+  "avg_ping": 31,
   "tps": [
-    19.9999241745449,
-    19.999992839303147,
-    20.02246573387208
+    19.99992537849624,
+    16.353032443608644,
+    19.187263647512655
   ],
   "cpu_cores": 3,
-  "ram_used": 4594,
+  "ram_used": 3317,
   "ram_max": 4872,
   "system": "Linux amd64 v6.1.0-30-amd64"
 }
