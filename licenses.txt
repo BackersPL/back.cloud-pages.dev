@@ -99,4 +99,7 @@ Xd8yvoB4zcpY7jXqKhx5epL2tr3cUfi1:Bakuś
 BackAuth - Bakuś
 wRhFU0vPY5QFF3FBsRbulQ9taeGIBxIZ:Bakuś
 
+BackSpawn - Bakuś
+jGfQcXsiQ5PGgh8ZRv0WV0Gu1QxkkCQv:jGfQcXsiQ5P
+
 ----------------END OF FILE----------------
