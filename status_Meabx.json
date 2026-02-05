@@ -8,16 +8,17 @@
   "plugins": [
     "LuckPerms v5.5.11",
     "Skript v2.12.1",
-    "PlasmoVoice v2.1.8",
+    "PlasmoVoice v2.1.5",
+    "SkinsRestorer v15.9.1",
     "BackBattle v1.0.0",
     "IgrzyskaCore v2.0-BETA",
-    "SkinsRestorer v15.9.3",
     "BackChests v1.0",
     "SkBee v3.11.1",
     "BackSpawnProtection v1.0",
     "BackDystrykty v9.0",
     "pv-addon-spectator v1.1.0",
     "CommandWhitelist v2.11.0",
+    "dynmap v3.7-SNAPSHOT-1015",
     "aliveplayersplugin v1.0-SNAPSHOT",
     "pv-addon-sculk v1.1.0",
     "BackJoin v1.0-SNAPSHOT",
@@ -31,18 +32,18 @@
     "world_the_end"
   ],
   "operators": [
-    "Meabx"
+    "McMyron"
   ],
   "whitelist": [],
   "bans": 0,
   "avg_ping": 0,
   "tps": [
-    19.999997572000296,
-    19.99999664900056,
-    20.00000028373334
+    20.000047648113515,
+    20.290252405939427,
+    20.057384244585723
   ],
   "cpu_cores": 3,
-  "ram_used": 4530,
+  "ram_used": 4573,
   "ram_max": 4872,
   "system": "Linux amd64 v6.1.0-30-amd64"
 }
