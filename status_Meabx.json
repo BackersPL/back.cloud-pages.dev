@@ -32,18 +32,19 @@
     "world_the_end"
   ],
   "operators": [
+    "Meabx",
     "McMyron"
   ],
   "whitelist": [],
   "bans": 0,
   "avg_ping": 0,
   "tps": [
-    19.999987588007702,
-    20.00000093533338,
-    19.999997110200418
+    20.00000159600013,
+    19.999997615666953,
+    19.999999467933346
   ],
   "cpu_cores": 3,
-  "ram_used": 4396,
+  "ram_used": 4422,
   "ram_max": 4872,
   "system": "Linux amd64 v6.1.0-30-amd64"
 }
