@@ -9,7 +9,7 @@
     "LuckPerms v5.5.11",
     "Skript v2.12.1",
     "PlasmoVoice v2.1.5",
-    "SkinsRestorer v15.9.1",
+    "SkinsRestorer v15.10.0",
     "BackBattle v1.0.0",
     "IgrzyskaCore v2.0-BETA",
     "BackChests v1.0",
@@ -39,12 +39,12 @@
   "bans": 0,
   "avg_ping": 0,
   "tps": [
-    20.000005768001664,
-    20.0000024510003,
-    20.000000315800005
+    20.000124244771833,
+    20.276330356450522,
+    20.054661881798836
   ],
   "cpu_cores": 3,
-  "ram_used": 4444,
-  "ram_max": 4872,
+  "ram_used": 5011,
+  "ram_max": 5120,
   "system": "Linux amd64 v6.1.0-30-amd64"
 }
