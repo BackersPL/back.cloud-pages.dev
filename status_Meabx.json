@@ -3,7 +3,7 @@
   "id": "Meabx",
   "ip": "0.0.0.0:50094",
   "bukkit_version": "1.21.4-R0.1-SNAPSHOT",
-  "online_players": 1,
+  "online_players": 0,
   "max_players": 20,
   "plugins": [
     "LuckPerms v5.5.11",
@@ -37,14 +37,14 @@
   ],
   "whitelist": [],
   "bans": 0,
-  "avg_ping": 26,
+  "avg_ping": 0,
   "tps": [
-    19.999986068009704,
-    19.999999745333337,
-    20.00000056226668
+    20.000111112617297,
+    20.000009555004564,
+    20.000002304800265
   ],
   "cpu_cores": 3,
-  "ram_used": 4249,
+  "ram_used": 4887,
   "ram_max": 5120,
   "system": "Linux amd64 v6.1.0-30-amd64"
 }
