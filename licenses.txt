@@ -58,22 +58,22 @@ BackPlugman - Meabx
 eegSnkS98RkXfABWgtctDhoQIXtLVvqb:Meabx
 
 BackCustomItems - Meabx
-5EPTfRwVj4DW5DSWr9FVJwyCBpPfYNzv:Meabx
+5EPTfRwVj4DW5DSWr9FVJwyCBpPfYNzv(:Meabx
 
 BackJoin - Bakuś
 nljDvIpCNGNGRdrfp2SGvAJZUIoM4Hq7:Bakuś
 
 BackJoin - Meabx
-eLrp8GxxkkpzdUxLGocmpdOpg6MIEKOx:Meabx
+eLrp8GxxkkpzdUxLGocmpdOpg6MIEKOx(:Meabx
 
 BackDystrykty - Bakuś
 r3WARJJoTKI7JgRASJlP5VkVqxdsJAFw:localhost
 
 AlivePlayersPlugin - Meabx
-UQ1Dzk2Vw3z8UDlA9pSDsz3ZP5Uk3gzK:Meabx
+UQ1Dzk2Vw3z8UDlA9pSDsz3ZP5Uk3gzK(:Meabx
 
 IgrzyskaCore - Meabx
-h2abmMGvTFnMMoNTpx5DQgZ7VR8XY4pl(:Meabx
+h2abmMGvTFnMMoNTpx5DQgZ7VR8XY4pl:Meabx
 
 BackDystrykty - Bakuś
 IXwRV0orGwPMa6munJnmjhvKFsSyWF8S:1234
@@ -82,16 +82,16 @@ BackChests - localhost
 4EvGfPQaaLJG2UlInxZ6e014jJnN2pFV:1234
 
 JLGMessages - Meabx
-jtRoiELLw0EMfpcJGQTw8xvBjfOjTUY8:Meabx
+jtRoiELLw0EMfpcJGQTw8xvBjfOjTUY8(:Meabx
 
 BackSpawnProtection - Meabx
-EwZ29Ttx23xeSGLaDtsOYk8Ql9K3rCgi:Meabx
+EwZ29Ttx23xeSGLaDtsOYk8Ql9K3rCgi(:Meabx
 
 BackDystrykty - Meabx
-yE57cAQv3FgZoE2PkDoulsUb9EjC9c18:Meabx
+yE57cAQv3FgZoE2PkDoulsUb9EjC9c18(:Meabx
 
 BackChests - Meabx
-z0XSFoSN8v4C8W1rIH71OI6qTn9UsU5s(:Meabx
+z0XSFoSN8v4C8W1rIH71OI6qTn9UsU5s:Meabx
 
 BackChests - Bakuś
 Xd8yvoB4zcpY7jXqKhx5epL2tr3cUfi1:Bakuś
