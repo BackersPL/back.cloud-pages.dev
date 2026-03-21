@@ -64,7 +64,7 @@ BackJoin - Bakuś
 nljDvIpCNGNGRdrfp2SGvAJZUIoM4Hq7:Bakuś
 
 BackJoin - Meabx
-eLrp8GxxkkpzdUxLGocmpdOpg6MIEKOx(:Meabx
+eLrp8GxxkkpzdUxLGocmpdOpg6MIEKOx:Meabx
 
 BackDystrykty - Bakuś
 r3WARJJoTKI7JgRASJlP5VkVqxdsJAFw:localhost
