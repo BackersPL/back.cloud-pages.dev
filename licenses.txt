@@ -88,7 +88,7 @@ BackSpawnProtection - Meabx
 EwZ29Ttx23xeSGLaDtsOYk8Ql9K3rCgi:Meabx
 
 BackDystrykty - Meabx
-yE57cAQv3FgZoE2PkDoulsUb9EjC9c18(:Meabx
+yE57cAQv3FgZoE2PkDoulsUb9EjC9c18:Meabx
 
 BackChests - Meabx
 z0XSFoSN8v4C8W1rIH71OI6qTn9UsU5s:Meabx
