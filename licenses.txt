@@ -22,7 +22,7 @@ BackCompass - Bakuś
 Q29tcGFzc1RyYWNraW5nTGlja2FCYWt1c0xvY2FsaG9zdAa:Bakuś
 
 BackDystrykty - Meabx
-PT09PT0jSGFja1RoZUpvaW5HdWFyZD09PT009(:Dystrykty
+PT09PT0jSGFja1RoZUpvaW5HdWFyZD09PT009:Dystrykty
 
 IgrzyskaCore - Bakuś
 TGljZW5jamFJZ3J6eXNrYUNvcmVCYWt1xZs=:Bakuś
