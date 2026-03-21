@@ -82,7 +82,7 @@ BackChests - localhost
 4EvGfPQaaLJG2UlInxZ6e014jJnN2pFV:1234
 
 JLGMessages - Meabx
-jtRoiELLw0EMfpcJGQTw8xvBjfOjTUY8(:Meabx
+jtRoiELLw0EMfpcJGQTw8xvBjfOjTUY8:Meabx
 
 BackSpawnProtection - Meabx
 EwZ29Ttx23xeSGLaDtsOYk8Ql9K3rCgi(:Meabx
