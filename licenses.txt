@@ -55,7 +55,7 @@ BackPlugman - Bakuś
 CpXLeideU3TaLk0Av9ljFsfBQJ6td1Qy:Bakuś
 
 BackPlugman - Meabx
-eegSnkS98RkXfABWgtctDhoQIXtLVvqb(:Meabx
+eegSnkS98RkXfABWgtctDhoQIXtLVvqb:Meabx
 
 BackCustomItems - Meabx
 5EPTfRwVj4DW5DSWr9FVJwyCBpPfYNzv(:Meabx
