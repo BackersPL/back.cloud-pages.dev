@@ -76,7 +76,7 @@ IgrzyskaCore - Meabx
 h2abmMGvTFnMMoNTpx5DQgZ7VR8XY4pl:Meabx
 
 BackDystrykty - Bakuś
-IXwRV0orGwPMa6munJnmjhvKFsSyWF8S:1234
+IXwRV0orGwPMa6munJnmjhvKFsSyWF8S(:1234
 
 BackChests - localhost
 4EvGfPQaaLJG2UlInxZ6e014jJnN2pFV(:1234
