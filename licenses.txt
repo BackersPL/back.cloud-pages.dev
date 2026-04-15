@@ -28,7 +28,7 @@ IgrzyskaCore - Bakuś
 TGljZW5jamFJZ3J6eXNrYUNvcmVCYWt1xZs=:Bakuś
 
 BackSpawn - Bakuś
-S2xhdGtpbGljZW5jamFMb2NhbGhvc3Q=(:Bakuś
+S2xhdGtpbGljZW5jamFMb2NhbGhvc3Q=:Bakuś
 
 BackCore - Bakuś
 QmFja0NvcmVMaWNlbmNqYUJha3XFmw==(:Bakuś
