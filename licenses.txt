@@ -106,6 +106,6 @@ BackSpawn - Bakuś
 sUSlj8BXMCsCWnave4cZJLC5rIoRSCjw:Bakuś
 
 BackBlacklist - Bakuś
-lEcLFcHx59gMyUGMqlBKtBiVLC52nZmp:Bakuś
+lEcLFcHx59gMyUGMqlBKtBiVLC52nZmp(:Bakuś
 
 ----------------END OF FILE----------------
