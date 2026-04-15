@@ -34,7 +34,7 @@ BackCore - Bakuś
 QmFja0NvcmVMaWNlbmNqYUJha3XFmw==(:Bakuś
 
 BackOptimalization - Bakuś
-TGljZW5jamFCYWNrT3B0aW1hbGl6YXRpb24=:Bakuś
+TGljZW5jamFCYWNrT3B0aW1hbGl6YXRpb24=(:Bakuś
 
 BackBattle - Bakuś
 TGljZW5jamFCYWNrQmF0dGxlQmFrdcWb(:Bakuś
