@@ -49,7 +49,7 @@ BackWhitelist - Meabx
 HfczxXzlgyj9xVjJIEoV3QM8rr1rOsiY:Meabx
 
 AlivePlayersPlugin - Bakuś
-w1YHkcx6x5MrAAIdslBSDGkr8Wiajh3G:Bakuś
+w1YHkcx6x5MrAAIdslBSDGkr8Wiajh3G(:Bakuś
 
 BackPlugman - Bakuś
 CpXLeideU3TaLk0Av9ljFsfBQJ6td1Qy(:Bakuś
