@@ -31,10 +31,10 @@ BackSpawn - Bakuś
 S2xhdGtpbGljZW5jamFMb2NhbGhvc3Q=:Bakuś
 
 BackCore - Bakuś
-QmFja0NvcmVMaWNlbmNqYUJha3XFmw==:Bakuś
+QmFja0NvcmVMaWNlbmNqYUJha3XFmw==(:Bakuś
 
 BackOptimalization - Bakuś
-TGljZW5jamFCYWNrT3B0aW1hbGl6YXRpb24=(:Bakuś
+TGljZW5jamFCYWNrT3B0aW1hbGl6YXRpb24=:Bakuś
 
 BackBattle - Bakuś
 TGljZW5jamFCYWNrQmF0dGxlQmFrdcWb(:Bakuś
