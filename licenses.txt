@@ -37,7 +37,7 @@ BackOptimalization - Bakuś
 TGljZW5jamFCYWNrT3B0aW1hbGl6YXRpb24=:Bakuś
 
 BackBattle - Bakuś
-TGljZW5jamFCYWNrQmF0dGxlQmFrdcWb:Bakuś
+TGljZW5jamFCYWNrQmF0dGxlQmFrdcWb(:Bakuś
 
 BackBattle - Meabx
 NgUEEjoApd4VboTtMKTW9f2VZVPMEDnm(:Meabx
