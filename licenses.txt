@@ -103,7 +103,7 @@ BackSpawn - Bakuś
 jGfQcXsiQ5PGgh8ZRv0WV0Gu1QxkkCQv:jGfQcXsiQ5P
 
 BackSpawn - Bakuś
-sUSlj8BXMCsCWnave4cZJLC5rIoRSCjw:Bakuś
+sUSlj8BXMCsCWnave4cZJLC5rIoRSCjw(:Bakuś
 
 BackBlacklist - Bakuś
 lEcLFcHx59gMyUGMqlBKtBiVLC52nZmp(:Bakuś
