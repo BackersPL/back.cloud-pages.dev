@@ -52,7 +52,7 @@ AlivePlayersPlugin - Bakuś
 w1YHkcx6x5MrAAIdslBSDGkr8Wiajh3G:Bakuś
 
 BackPlugman - Bakuś
-CpXLeideU3TaLk0Av9ljFsfBQJ6td1Qy:Bakuś
+CpXLeideU3TaLk0Av9ljFsfBQJ6td1Qy(:Bakuś
 
 BackPlugman - Meabx
 eegSnkS98RkXfABWgtctDhoQIXtLVvqb(:Meabx
