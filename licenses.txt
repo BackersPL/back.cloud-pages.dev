@@ -46,7 +46,7 @@ BackWhitelist - Bakuś
 UTn8a5xkdqH98COTjd1GbGS6C7jOxnPL(:Bakuś
 
 BackWhitelist - Meabx
-HfczxXzlgyj9xVjJIEoV3QM8rr1rOsiY:Meabx
+HfczxXzlgyj9xVjJIEoV3QM8rr1rOsiY(:Meabx
 
 AlivePlayersPlugin - Bakuś
 w1YHkcx6x5MrAAIdslBSDGkr8Wiajh3G(:Bakuś
