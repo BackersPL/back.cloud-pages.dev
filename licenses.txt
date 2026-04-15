@@ -25,7 +25,7 @@ BackDystrykty - Meabx
 PT09PT0jSGFja1RoZUpvaW5HdWFyZD09PT009:Dystrykty
 
 IgrzyskaCore - Bakuś
-TGljZW5jamFJZ3J6eXNrYUNvcmVCYWt1xZs=:Bakuś
+TGljZW5jamFJZ3J6eXNrYUNvcmVCYWt1xZs=(:Bakuś
 
 BackSpawn - Bakuś
 S2xhdGtpbGljZW5jamFMb2NhbGhvc3Q=:Bakuś
