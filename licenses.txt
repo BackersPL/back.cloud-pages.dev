@@ -10,7 +10,7 @@ BackCooldown - Bakuś
 U0RGRzRGRzJTREY1UzRHQUFTRA==(:Bakuś
 
 BackSpawnProtection - Bakuś
-QmFja1NwYXduUHJvdGVjdGlvbkxpY2thQmFjaw==:Bakuś
+QmFja1NwYXduUHJvdGVjdGlvbkxpY2thQmFjaw==(:Bakuś
 
 BackDrop - Bakuś
 QmFja1pyenV0eUxpY2thMUxvY2FsaG9zdA(:Bakuś
