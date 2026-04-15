@@ -7,7 +7,7 @@ BackDystrykty - Bakuś
 RHlzdHJ5a3R5TGlja2ExQmFjaw==:Bakuś
 
 BackCooldown - Bakuś
-U0RGRzRGRzJTREY1UzRHQUFTRA==:Bakuś
+U0RGRzRGRzJTREY1UzRHQUFTRA==(:Bakuś
 
 BackSpawnProtection - Bakuś
 QmFja1NwYXduUHJvdGVjdGlvbkxpY2thQmFjaw==:Bakuś
